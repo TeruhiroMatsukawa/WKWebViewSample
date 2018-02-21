@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DDB4C667203D1BC70014F7D1"
+               BuildableName = "SampleWebViewBackGesture.app"
+               BlueprintName = "SampleWebViewBackGesture"
+               ReferencedContainer = "container:SampleWebViewBackGesture.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "DDB4C667203D1BC70014F7D1"
+            BuildableName = "SampleWebViewBackGesture.app"
+            BlueprintName = "SampleWebViewBackGesture"
+            ReferencedContainer = "container:SampleWebViewBackGesture.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
